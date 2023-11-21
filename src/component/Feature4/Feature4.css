@@ -1,0 +1,9 @@
+.animate-div {
+    position: relative;
+    transition: left 1s;
+    left: -200px; /* Starting position of the div */
+  }
+  
+  .start-animation {
+    left: 0px; /* Real position of the div */
+  }
